@@ -12,6 +12,7 @@ To use the application, you need to install the following libraries:
  - num2words (pip install num2words)
  - Pillow (pip install pillow)
  
+ 
  For use this application you need to have two Keys, Bing Vision API, and Bing Speech API. Go to Azure and grabe this two Keys to use this application.
   
  Run the application with the follow command:
